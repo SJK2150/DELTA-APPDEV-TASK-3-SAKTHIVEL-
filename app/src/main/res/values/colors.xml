@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryDark">#FF3700B3</color>
+    <color name="colorAccent">#FF03DAC5</color>
+
+    <!-- Text colors -->
+    <color name="textColorPrimary">#FF000000</color>
+    <color name="textColorSecondary">#FF000000</color>
+
+    <!-- Background colors -->
+    <color name="backgroundColor">#FFFFFFFF</color>
+    <color name="cardBackground">#FFEEEEEE</color>
+
+    <!-- Other colors -->
+    <color name="colorError">#FFB00020</color>
+    <color name="colorSurface">#FFFFFFFF</color>
+
+    <color name="button_default_color">#FF6200EE</color>
+    <color name="button_reserved_color">#4CAF50</color>
+
+</resources>
